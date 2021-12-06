@@ -1,0 +1,37 @@
+
+.hr-login{
+    height: 60px;
+    background-image: url("../images/hr-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: none;
+}
+
+#login_bg{
+    background: white;
+    background-image: url(../images/login-bg.png);
+    background-repeat: no-repeat;
+    background-position: 480px 180px;
+    border-radius: 6px;
+    padding: 0px 16px;
+}
+
+#info_banner{
+    padding:0;
+    margin:0;
+    font-size:18px;
+    font-weight: bold;
+    height: 80px;
+    line-height: 86px;
+    background: linear-gradient(to bottom, #20a976 0%, #58b149 60%);
+}
+#info_banner p{
+    color:white;
+    font-family: Raleway,sans-serif;
+}
+#info_banner i{
+    color:white;
+    font-size:38px;
+    vertical-align: middle;
+}
+

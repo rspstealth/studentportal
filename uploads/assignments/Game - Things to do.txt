@@ -1,0 +1,10 @@
+- Pause / Resume Menu & 3 secs delay timer after pause / resume   DONE
+- resize and move side walls with the game camera
+- add vibrate on crow collision in game
+- increase crow volume                                            DONE
+- fix water game over issue                                       DONE
+- add retry button                                                DONE
+
+
+- experimental stick/breakable tile introduction
+  which will break on player landing, player will have to jump quickly to the next upcoming tile.

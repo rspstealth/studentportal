@@ -1,0 +1,15 @@
+
+1- Check if in the air:::::::::::::::
+   current start when game starts => gravity = Off
+
+   Two tiles colliders types::::
+   1. Floor
+      On Collision with Floor as Player, gravity is Off.       
+
+   2. Roof
+      On Collision with Floor as Player, gravity is Off.
+
+2- Check current state of gravity
+
+::::::COMING SOON::::::::
+Gravity Guy 3D concept

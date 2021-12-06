@@ -1,0 +1,87 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Raleway,sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #dedede;
+}
+.wrapper{
+    width:100%;
+    margin:0;
+    padding:0;
+    font-family: Nunito,sans-serif;
+}
+.main-content{
+
+}
+#header{
+    padding: 40px 0;
+    height: 120px;
+    border-bottom: 1px solid #dedede;
+    background: linear-gradient(white, #dcdcdc 30%)
+}
+.logo{
+    min-height:100px;
+    color: black;
+}
+.logo h2{
+    margin:0;
+    padding:0;
+}
+#header_left{
+    text-align:left;
+    height:100px;
+}
+#header_right{
+    text-align:right;
+    height:100px;
+}
+#header_right h3{
+    font-weight: bold;
+    color:#000;
+    padding: 10px 0;
+    margin: 0;
+}
+.card{
+    border-radius: 5px ;
+    margin:8px 0;
+    padding:10px;
+    border:1px solid #dcdcdc;
+}
+.form-control{
+    padding:5px;
+    margin:0;
+}
+.no-padding{
+    padding:0;
+}
+#footer{
+    padding: 10px;
+    background: linear-gradient(to bottom, #20a976 0%, #58b149 60%);
+    border-top: 1px solid #1aa766;
+}
+#footer a{
+    color:white;
+}
+#footer ul{
+    margin:0;
+    padding:0;
+}
+#footer ul li{
+    list-style: none;
+}
+#footer ul li a{
+    color:white;
+}
+#footer_bottom{
+    height:45px;
+    background: linear-gradient(to bottom, #868686 0%, #6f6f6f 100%);
+}
+#footer_bottom p{
+    color:white;
+    line-height: 45px;
+}
+.underline{
+    border-bottom: 1px solid black;
+}

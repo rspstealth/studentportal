@@ -1,0 +1,9 @@
+USERNAME=> uniqueness
+
+1- Student name + roll no change will create username in username field automatically
+2- you can always type custom username for student
+
+Checking unique username scenarios:
+1- on roll_no input change check username uniqueness
+2- on custom input for username field check username in {users} table.
+
