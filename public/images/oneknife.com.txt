@@ -1,8 +1,0 @@
-byknife.com/yonetim
-
-user name : developer
-
-password: developer123
-
-ftp user : developer@byknife.com
-password: developer123
