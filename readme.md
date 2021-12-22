@@ -1,2 +1,2 @@
 # studentportal
- Online Students LMS system
+ Online Students LMS system built in Laravel
